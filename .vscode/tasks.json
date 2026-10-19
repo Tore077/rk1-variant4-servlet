@@ -1,0 +1,8 @@
+﻿{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Run RK1 variant 4", "type": "shell", "command": "powershell -ExecutionPolicy Bypass -File .\\run.ps1", "problemMatcher": [] },
+    { "label": "Stop Tomcat", "type": "shell", "command": "powershell -ExecutionPolicy Bypass -File .\\stop.ps1", "problemMatcher": [] }
+  ]
+}
+
