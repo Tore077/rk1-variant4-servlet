@@ -1,0 +1,11 @@
+body{font:17px/1.6 system-ui,sans-serif;background:#eef2f7;color:#1d2d40;margin:0}
+main{max-width:780px;margin:40px auto;padding:32px;background:white;border-radius:16px}
+a{color:#185bb7}
+label{display:block;margin:14px 0}
+input,button{font:inherit;padding:8px;border:1px solid #bbc7d5;border-radius:6px}
+input{display:block;width:90%}
+button{background:#185bb7;color:white;cursor:pointer;margin:8px 8px 8px 0}
+.result{margin-top:20px;padding:14px;background:#e6f4ea;border-left:5px solid #2e8b57;border-radius:6px}
+.error{margin-top:20px;padding:14px;background:#fdecea;border-left:5px solid #c62828;border-radius:6px;color:#8e1c1c}
+label.check{display:flex;align-items:center;gap:10px;margin:10px 0}
+label.check input{display:inline;width:auto;margin:0}
