@@ -1,0 +1,6 @@
+.runtime/
+build/
+target/
+screenshots/
+*.docx
+*.pdf
