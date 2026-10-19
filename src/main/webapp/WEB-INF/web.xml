@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="4.0">
+ <display-name>РК1 — 4-нұсқа (Қызығушылықтарыңыз)</display-name>
+ <!-- InterestsServlet @WebServlet("/interests") аннотациясымен тіркелген. -->
+ <welcome-file-list><welcome-file>index.html</welcome-file></welcome-file-list>
+</web-app>
